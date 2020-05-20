@@ -1,13 +1,7 @@
 # wadadaw
 
-aman
-?wp
-?joomla
-?lara
+aman: wp, joomla, lara
 
-akses
-?mamat
-?mamatup
-?mail
+akses: mamat, mamatup, mail
 
 rahmat

